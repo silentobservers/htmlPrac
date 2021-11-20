@@ -1,2 +1,2 @@
-# htmlPrac
+# HTML Prac
 Practice
